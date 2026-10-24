@@ -4,6 +4,7 @@ function index() {
   return (
     <div>
       <h1>yugsauy</h1>
+      <h2>login</h2>
     </div>
   )
 }
